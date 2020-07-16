@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/ayden/CLionProjects/untitled/main.cpp" "/cygdrive/c/Users/ayden/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/cygdrive/c/Users/ayden/OneDrive/Documents/GitHub/LotteryNumSimulator/main.cpp" "/cygdrive/c/Users/ayden/OneDrive/Documents/GitHub/LotteryNumSimulator/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
