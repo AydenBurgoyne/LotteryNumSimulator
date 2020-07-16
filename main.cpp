@@ -1,6 +1,5 @@
 #include <iostream>
 #include <random>
-int randNum();
 
 using namespace std;
 int main() {
